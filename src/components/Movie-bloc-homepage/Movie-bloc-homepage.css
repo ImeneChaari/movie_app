@@ -1,0 +1,34 @@
+.movies-to-show {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 3%;
+}
+.movie-bloc {
+  width: 80%;
+  margin-top: 100px;
+  display: flex;
+  flex-direction: column;
+}
+
+.bloc-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #ececec;
+}
+button {
+  border: 1px solid #d4d4d3;
+  border-radius: 20px;
+  background: none;
+  color: #d4d4d3;
+  width: 150px;
+  height: 40px;
+  font-size: 20px;
+}
+h1 {
+  font-weight: normal;
+  font-size: 30px;
+  letter-spacing: 3px;
+  color: #ececec;
+}

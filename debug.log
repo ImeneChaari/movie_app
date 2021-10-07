@@ -1,0 +1,5 @@
+[0903/104244.650:ERROR:settings.cc(401)] Settings magic is not 1129342067
+[0917/001841.536:ERROR:process_info.cc(329)] VirtualQueryEx: Accès refusé. (0x5)
+[0917/001840.876:ERROR:process_reader_win.cc(127)] NtOpenThread: {Accès refusé} Un processus a demandé l’accès a un objet, mais il ne bénéficie pas des autorisations nécessaires. (0xc0000022)
+[0917/001841.466:ERROR:process_reader_win.cc(127)] NtOpenThread: {Accès refusé} Un processus a demandé l’accès a un objet, mais il ne bénéficie pas des autorisations nécessaires. (0xc0000022)
+[0917/001840.876:ERROR:process_reader_win.cc(127)] NtOpenThread: {Accès refusé} Un processus a demandé l’accès a un objet, mais il ne bénéficie pas des autorisations nécessaires. (0xc0000022)

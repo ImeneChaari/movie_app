@@ -1,0 +1,33 @@
+.movie-card {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.movie-details-div {
+  position: absolute;
+  opacity: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+}
+.movie-details-div:hover {
+  opacity: 1;
+  background-color: rgba(12, 12, 12, 0.7);
+  cursor: pointer;
+}
+.movie-name {
+  font-size: 22px;
+  font-weight: bolder;
+  text-align: center;
+}
+.MuiRating-root {
+  display: flex;
+  justify-content: center;
+}
+.MuiRating-iconEmpty {
+  color: #a4a4a4 !important;
+}

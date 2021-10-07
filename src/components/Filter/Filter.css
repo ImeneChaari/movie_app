@@ -1,0 +1,29 @@
+label {
+  color: #ececec;
+  font-size: 22px;
+}
+select {
+  color: #ececec;
+  background-color: #0c0c0c;
+  font-size: 20px;
+  margin-right: 2%;
+  margin-left: 2%;
+}
+.filter-main {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 2%;
+}
+#filter-btn {
+  background: none;
+  width: fit-content;
+  height: fit-content;
+  align-items: center;
+  font-size: 20px;
+  letter-spacing: 3px;
+  border-radius: 20%;
+}
+#filter-icon {
+  height: 18px;
+}

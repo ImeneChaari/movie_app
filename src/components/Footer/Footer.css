@@ -1,0 +1,17 @@
+.footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  margin-top: 7%;
+  border-top: 1px solid #1c1c1c;
+  background-color: #0c0c0c;
+}
+
+.icons {
+  height: 30px;
+}
+p {
+  color: #ececec;
+}

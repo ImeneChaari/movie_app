@@ -1,0 +1,18 @@
+#search-input {
+  width: 80%;
+  height: 20px;
+  background: none;
+  border: none;
+  font-size: 20px;
+  color: #ececec;
+  outline: none;
+  letter-spacing: 2px;
+}
+
+.search {
+  border-bottom: 1px solid #1c1c1c;
+  padding-left: 2%;
+  padding-bottom: 2px;
+  display: flex;
+  width: 20%;
+}
